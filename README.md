@@ -9,9 +9,9 @@ An interactive digital **drum pad** project built using **Raspberry Pi** and **T
 
 ## 👨‍💻 Authors
 
-- **Shamanth Vasishta** 
-- **S V Vikas** 
-- **Pragnya S**
+- **Shamanth Vasishta** - https://github.com/elementary15
+- **S V Vikas** - https://github.com/vikassv44
+- **Pragnya S** - https://github.com/prags-11
 
 ## 🚀 What It Does
 
